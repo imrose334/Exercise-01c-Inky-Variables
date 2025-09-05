@@ -16,7 +16,7 @@ This exercise will demonstrate the following in the example video:
 */
 
 
-VAR health = 10
+VAR hunger = 10
 VAR pokemon = ""
 VAR torches = 0 
 
